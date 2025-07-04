@@ -1,5 +1,0 @@
-fastapi
-uvicorn
-playwright
-pandas
-python-dotenv
